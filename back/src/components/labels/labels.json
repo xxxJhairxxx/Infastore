@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_labels_labels",
+  "info": {
+    "displayName": "labels"
+  },
+  "options": {},
+  "attributes": {
+    "lbl_shop_now": {
+      "type": "string"
+    },
+    "lbl_add_cart": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

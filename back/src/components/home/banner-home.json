@@ -1,0 +1,36 @@
+{
+  "collectionName": "components_home_banner_homes",
+  "info": {
+    "displayName": "banner_home"
+  },
+  "options": {},
+  "attributes": {
+    "subtitle": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "text_decorated": {
+      "type": "string"
+    },
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "slider_enable": {
+      "type": "boolean",
+      "default": false
+    }
+  },
+  "config": {}
+}

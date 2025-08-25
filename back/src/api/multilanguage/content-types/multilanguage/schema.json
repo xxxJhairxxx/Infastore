@@ -1,0 +1,25 @@
+{
+  "kind": "singleType",
+  "collectionName": "multilanguages",
+  "info": {
+    "singularName": "multilanguage",
+    "pluralName": "multilanguages",
+    "displayName": "Multilanguage"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Menu": {
+      "type": "component",
+      "component": "menu.menu",
+      "repeatable": true
+    },
+    "labels": {
+      "type": "component",
+      "component": "labels.labels",
+      "repeatable": false
+    }
+  }
+}

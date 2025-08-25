@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_menu_menus",
+  "info": {
+    "displayName": "Menu"
+  },
+  "options": {},
+  "attributes": {
+    "label": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string"
+    },
+    "sitemap": {
+      "type": "boolean",
+      "default": false
+    }
+  },
+  "config": {}
+}
